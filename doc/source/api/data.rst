@@ -19,6 +19,7 @@ Inference library converters
    from_pyjags
    from_pyro
    from_pystan
+   from_jack
 
 
 IO / General conversion
